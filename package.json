@@ -4,11 +4,13 @@
   "title": "ChatGPT",
   "description": "Interact with OpenAI's ChatGPT API directly from your command bar",
   "icon": "icon.png",
-  "author": "abielzulio",
+  "author": "carter",
+  "owner": "alliance",
   "contributors": [
     "timolins",
     "shichongrui",
-    "pomdtr"
+    "pomdtr",
+    "abielzulio"
   ],
   "categories": [
     "Applications",
